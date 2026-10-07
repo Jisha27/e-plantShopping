@@ -1,3 +1,4 @@
+Project name : e-plantShopping
 # 🌱 ePlant Shopping Website
 
 ePlant is a simple and user-friendly online shopping website for purchasing indoor and outdoor plants. The application allows users to explore different plants, view their prices and descriptions, add plants to a shopping cart, and manage the items in their cart.
@@ -27,7 +28,7 @@ ePlant is a simple and user-friendly online shopping website for purchasing indo
 ## 📂 Project Structure
 
 ```text
-eplant-shopping/
+e-plantShopping/
 │
 ├── public/
 │
